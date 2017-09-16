@@ -12,9 +12,9 @@ It's a sample, so feel free to modify and customize in order to use as your webs
 ## Customization
 You can change posts' url, main colors and text from this 3 files:
 
--
--
--
+- Posts' Url: https://github.com/enjoyyournoise/wordpressandroidfeedreader/blob/e09a292c357f646e914877edc76d6ce36ecc2b1f/app/src/main/java/com/wpfeedreader/android/Config.java#L9
+- Colors: https://github.com/enjoyyournoise/wordpressandroidfeedreader/blob/e09a292c357f646e914877edc76d6ce36ecc2b1f/app/src/main/res/values/colors.xml#L3
+- Strings: https://github.com/enjoyyournoise/wordpressandroidfeedreader/blob/e09a292c357f646e914877edc76d6ce36ecc2b1f/app/src/main/res/values/strings.xml#L2
 
 Thanks to:
 
