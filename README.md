@@ -7,6 +7,15 @@ It's a sample, so feel free to modify and customize in order to use as your webs
 
 - wp-json: http://v2.wp-api.org/
 
+---
+
+## Customization
+You can change posts' url, main colors and text from this 3 files:
+
+-
+-
+-
+
 Thanks to:
 
 - Picasso: http://square.github.io/picasso/
