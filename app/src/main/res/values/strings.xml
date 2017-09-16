@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Wordpress Feed Reader</string>
+    <string name="action_share">Share</string>
+    <string name="action_add_favourite">Save</string>
+    <string name="loading">Loading...</string>
+    <string name="favourite_error">Issue during saving article as favourite.</string>
+    <string name="share">Share...</string>
+    <string name="author_prefix">by</string>
+    <string name="post_details_error">Issue during loading.</string>
+    <string name="favourite_success">Saved!</string>
+    <string name="favourite_delete_success">Removed!</string>
+    <string name="contact_error">Cannot send a mail!</string>
+    <string name="contact">Send a mail...</string>
+    <string name="no_favs">No favourites saved</string>
+    <string name="no_posts">No post available.\nRetry</string>
+</resources>
