@@ -23,4 +23,4 @@ Thanks to:
 
 
 Author: Diego Gurnari
-Contact: gurnari.dev@gmail.com
+Contact: goornari@gmail.com
