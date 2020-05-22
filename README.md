@@ -20,7 +20,3 @@ Thanks to:
 
 - [Picasso](http://square.github.io/picasso/)
 - [jsoup](https://jsoup.org/)
-
-
-Author: Diego Gurnari
-Contact: goornari@gmail.com
